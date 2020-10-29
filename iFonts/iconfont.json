@@ -1,0 +1,65 @@
+{
+  "id": "1982896",
+  "name": "book",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "308752",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "7975545",
+      "name": "左右",
+      "font_class": "right",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8147092",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "9297769",
+      "name": "上下",
+      "font_class": "shangxia",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12441821",
+      "name": "日 历",
+      "font_class": "rili-copy-copy-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "16103947",
+      "name": "电  话",
+      "font_class": "dianhua",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "11274778",
+      "name": "床",
+      "font_class": "bed-base",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9748042",
+      "name": "问号/感叹号",
+      "font_class": "iconcopy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
